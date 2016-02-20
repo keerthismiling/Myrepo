@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="263270" started-at="2016-02-19T17:37:55Z" finished-at="2016-02-19T17:42:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="263270" started-at="2016-02-19T17:37:55Z" finished-at="2016-02-19T17:42:18Z">
+      <class name="com.qa.TestingShoeStore.TestingShoeStore">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.TestingShoeStore.TestingShoeStore@19bb089b]" name="setUP" is-config="true" duration-ms="9286" started-at="2016-02-19T09:37:55Z" finished-at="2016-02-19T09:38:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="monthlyRelease()[pri:0, instance:com.qa.TestingShoeStore.TestingShoeStore@19bb089b]" name="monthlyRelease" duration-ms="252527" started-at="2016-02-19T09:38:04Z" finished-at="2016-02-19T09:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monthlyRelease -->
+        <test-method status="PASS" signature="submitEmailAddress()[pri:0, instance:com.qa.TestingShoeStore.TestingShoeStore@19bb089b]" name="submitEmailAddress" duration-ms="1423" started-at="2016-02-19T09:42:17Z" finished-at="2016-02-19T09:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitEmailAddress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestingShoeStore.TestingShoeStore@19bb089b]" name="tearDown" is-config="true" duration-ms="20" started-at="2016-02-19T09:42:18Z" finished-at="2016-02-19T09:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestingShoeStore.TestingShoeStore -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
