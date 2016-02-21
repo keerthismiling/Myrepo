@@ -74,6 +74,7 @@ public class TestingShoeStore {
 		System.out.println(emailResultText);
 		Assert.assertEquals(emailResultText,emailNotification);
 		System.out.println("Assertions checked successfully for the shoe store");
+		System.out.println();
 	}
 
 	@AfterTest
