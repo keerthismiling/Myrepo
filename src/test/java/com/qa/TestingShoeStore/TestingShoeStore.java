@@ -73,7 +73,7 @@ public class TestingShoeStore {
 		String emailResultText="Thanks! We will notify you of our new shoes at this email: "+emailAddress;
 		System.out.println(emailResultText);
 		Assert.assertEquals(emailResultText,emailNotification);
-		System.out.println("Assertions checked successfully");
+		System.out.println("Assertions checked successfully for the shoe store");
 	}
 
 	@AfterTest
